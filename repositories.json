@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    {"name": "emails_github_filesystem_playwright_with_chunk_3297-k3297wd-edgefront-core", "kind": "catalog-backend", "group": "platform"},
+    {"name": "emails_github_filesystem_playwright_with_chunk_3297-k3297wd-telemetry-mesh", "kind": "catalog-backend", "group": "data"},
+    {"name": "emails_github_filesystem_playwright_with_chunk_3297-k3297wd-compaction-kit", "kind": "catalog-backend", "group": "data"},
+    {"name": "emails_github_filesystem_playwright_with_chunk_3297-k3297wd-sensor-bridge", "kind": "catalog-backend", "group": "integrations"},
+    {"name": "emails_github_filesystem_playwright_with_chunk_3297-k3297wd-rig-lab-notebooks", "kind": "internal-project", "group": "integrations"},
+    {"name": "emails_github_filesystem_playwright_with_chunk_3297-k3297wd-static-site-stack", "kind": "catalog-backend", "group": "platform"}
+  ]
+}
